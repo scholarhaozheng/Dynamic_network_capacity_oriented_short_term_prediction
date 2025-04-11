@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore data checkpoints
+data/checkpoint/
+
+# Ignore generated files
+*.pkl
+*.pt
+*.pkl
+
+# Ignore specific directories
+data/
+archieve/
+test_tools/
